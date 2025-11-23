@@ -15,20 +15,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="28" width="28" />
   </a>
 </p>
-
-### 🛠 Tech Stack  
-<p align="left">
-  <!-- <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite,html" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" /> -->
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB logo" /> -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="POSTMAN logo"/>
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=css,js,react,redis,azure,github,git,cpp" height="40" style="margin:5px" />
-</p>
-<p align="left">
-  <!-- <img src="https://skillicons.dev/icons?i=c,docker" height="40" style="margin:5px" />
-</p> -->
+### 🛠 Tech Stack
+<p align="left"> <!-- Core Languages --> <img src="https://skillicons.dev/icons?i=c" height="40" /> <img src="https://skillicons.dev/icons?i=cpp" height="40" /> <img src="https://skillicons.dev/icons?i=java" height="40" /> <!-- Frontend --> <img src="https://skillicons.dev/icons?i=html" height="40" /> <img src="https://skillicons.dev/icons?i=css" height="40" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> <img src="https://skillicons.dev/icons?i=react" height="40" /> <!-- Backend --> <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> <img src="https://skillicons.dev/icons?i=express" height="40" /> <!-- Databases --> <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="40" alt="MongoDB Atlas" /> <img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" height="40" alt="MongoDB Compass" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=postman" height="40" /> <img src="https://skillicons.dev/icons?i=git" height="40" /> <img src="https://skillicons.dev/icons?i=github" height="40" /> <img src="https://skillicons.dev/icons?i=azure" height="40" /> </p>
 
 ### 📊 GitHub Stats  
 <p align="left">
